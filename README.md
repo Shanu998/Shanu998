@@ -30,21 +30,21 @@
 <div align="left">
 
 <p>
-<a href="https://github.com/search?q=user:shanu998=topic:excel-projects" styles"text-decoration: none;">
-  <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" height="20" alt="Excel logo" style="vertical-align: middle; padding-right: 6px;" />
-  <span style="color: #1f6feb;>Excel Projects</span>
+<a href="https://github.com/Shanu998/excel-projects" target="_blank">
+  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=007ACC" height="40" alt="Excel logo" />
+  <span style="font-size: 18px; margin-left: 8px;">Excel Projects</span>
 </a>  
 </p>
 
 <p>
-<a href="https://github.com/YourUsername/sql-projects" target="_blank">
+<a href="https://github.com/Shanu998/sql-projects" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20" alt="SQL Server logo" />
   <span style="font-size: 18px; margin-left: 8px;">SQL Projects</span>
 </a>
 </p>
 
 <p>
-<a href="https://github.com/YourUsername/powerbi-projects" target="_blank">
+<a href="https://github.com/Shanu998/powerbi-projects" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=69674&format=png&color=FAB005" height="20" alt="Power BI logo" />
   <span style="font-size: 18px; margin-left: 8px;">Power BI Dashboards</span>
 </a>
