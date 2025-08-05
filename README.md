@@ -29,23 +29,27 @@
 
 <div align="left">
 
+<p>
 <a href="https://github.com/YourUsername/excel-projects" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" height="20" alt="Excel logo" />
   <span style="font-size: 18px; margin-left: 8px;">Excel Projects</span>
 </a>  
-<br/>
+</p>
 
+<p>
 <a href="https://github.com/YourUsername/sql-projects" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="20" alt="SQL Server logo" />
   <span style="font-size: 18px; margin-left: 8px;">SQL Projects</span>
-</a>  
-<br/>
+</a>
+</p>
 
+<p>
 <a href="https://github.com/YourUsername/powerbi-projects" target="_blank">
   <img src="https://img.icons8.com/?size=100&id=69674&format=png&color=FAB005" height="20" alt="Power BI logo" />
   <span style="font-size: 18px; margin-left: 8px;">Power BI Dashboards</span>
 </a>
-
+</p>
+  
 </div>
 
 #
