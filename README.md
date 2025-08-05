@@ -31,7 +31,7 @@
 
 <p>
 <a href="https://github.com/Shanu998/excel-projects" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=21278&format=png&color=007ACC" height="40" alt="Excel logo" />
+  <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" height="20" alt="Excel logo" />
   <span style="font-size: 18px; margin-left: 8px;">Excel Projects</span>
 </a>  
 </p>
