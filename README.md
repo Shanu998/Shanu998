@@ -28,7 +28,7 @@
 ###
 
 <p>
-<a href="https://github.com/search?q=user:Shanu998+topic:excel" style="text-decoration: none;">
+<a href="https://github.com/search?q=user:Shanu998+topic:Excel" style="text-decoration: none;">
   <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" height="20" alt="Excel logo" style="vertical-align: middle: padding-right: 6px;" />
   <span style="color: #1f6feb;">Excel Projects</span>
 </a>  
@@ -42,7 +42,7 @@
 </p>
 
 <p>
-<a href="https://github.com/search?q=user:Shanu998+topic:power-bi" style="text-decoration: none;">
+<a href="https://github.com/search?q=user:Shanu998+topic:Power-bi" style="text-decoration: none;">
   <img src="https://img.icons8.com/?size=100&id=69674&format=png&color=FAB005" height="20" alt="Excel logo" style="vertical-align: middle: padding-right: 6px;" />
   <span style="color: #1f6feb;">Power BI Projects</span>
 </a>
