@@ -30,9 +30,9 @@
 <div align="left">
 
 <p>
-<a href="https://github.com/YourUsername/excel-projects" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" height="20" alt="Excel logo" />
-  <span style="font-size: 18px; margin-left: 8px;">Excel Projects</span>
+<a href="https://github.com/search?q=user:shanu998=topic:excel-projects" styles"text-decoration: none;">
+  <img src="https://img.icons8.com/?size=100&id=UECmBSgBOvPT&format=png&color=000000" height="20" alt="Excel logo" style="vertical-align: middle; padding-right: 6px;" />
+  <span style="color: #1f6feb;>Excel Projects</span>
 </a>  
 </p>
 
